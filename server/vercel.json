@@ -9,7 +9,7 @@
 
   
     { "src": "/(.*)", 
-      "dest": "https://my-old-site.com" }
+      "dest": "/" }
   ]
 }
 }
